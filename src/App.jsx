@@ -19,7 +19,9 @@ function App() {
         </div>
         <div id='webpage' className="hidden">
           <Navbar />
-
+          <div>
+            <p className='text-center my-6 font-extrabold text-4xl'>Users</p>
+          </div>
           <Users />
 
         </div>
